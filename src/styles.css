@@ -1,0 +1,33 @@
+.App {
+  font-family: arial;
+  text-align: center;
+}
+
+.index {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 0;
+}
+
+.container {
+  font-family: Helvetica;
+  width: 100%;
+  background-color: #f0f8ff;
+  padding: 20px;
+}
+
+.data {
+  font-family: Helvetica;
+  background-color: #e6bc05;
+  padding: 5px 30px 5px 5px;
+  margin: 10px 0;
+  color: #fff;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #1b8a37;
+}
